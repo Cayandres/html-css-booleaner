@@ -1,0 +1,7 @@
+*{
+  margin: 0;
+}
+div img{
+  background-color: #4ea0ff;
+  background-image: url(../img/pattern.png)
+}
