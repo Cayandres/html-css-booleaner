@@ -1,7 +1,41 @@
 *{
   margin: 0;
 }
-div img{
+
+.riquadro-principale{
   background-color: #4ea0ff;
   background-image: url(../img/pattern.png)
+}
+
+#booleaner{
+  width: 300px;
+  margin-top: 3%;
+}
+
+#titolo{
+  font-size: 60px;
+}
+#scritta-blu{
+  color: #20a9e4;
+}
+.scoot{
+height: 500px;  
+}
+table{
+  border-spacing: 0px;
+}
+
+.lorem-lungo{
+  padding: 2%;
+  padding-left: 0px;
+}
+thead{
+  background-color: #20a9e5;
+  color: white;
+}
+.colore-celeste{
+  background-color: #b1e5f2;
+}
+.scritta-grigia{
+  color: #7d7d7d;
 }
